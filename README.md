@@ -1,6 +1,6 @@
 <h3 align="center">Hi there 👋, I'm aben20807</h3>
 
-#### 🔭 Bio
+#### 🔭 Bio:
 
 I'm a PhD student in NCKU CSIE  
 Interests: privacy-preserving computing, secure multi-party computation, compiler construction, system programming  
