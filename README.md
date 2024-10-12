@@ -2,25 +2,30 @@
 
 #### 🔭 Bio:
 
-I'm a PhD candidate in CSIE, NCKU  
-Interests: privacy-preserving computing, secure multi-party computation, compiler construction, system programming, quantum computing  
+I hold a PhD from CSIE, NCKU and am currently a postdoctoral researcher at CSIE, NTU  
+Interests:
++ privacy-preserving computing, secure multi-party computation
++ compiler construction, system programming, performance analysis and optimization
++ quantum computing
+
 Feel free to address me as Aben or Ben, both are perfectly fine 😄
 
 #### ⚡ My Links:
 
 + [Blog](https://aben20807.github.io/)
 + [Linkedin](https://www.linkedin.com/in/po-hsuan-huang-6587b6117/)
-+ [Flickr](https://www.flickr.com/photos/aben20807/) / [Unsplash](https://unsplash.com/@aben20807)
-+ [SlideShare](https://www.slideshare.net/aben20807) / [speakerdeck](https://speakerdeck.com/aben20807)
 + [orcid](https://orcid.org/0000-0002-7458-9634)
+
+<!--+ [Flickr](https://www.flickr.com/photos/aben20807/) / [Unsplash](https://unsplash.com/@aben20807)-->
+<!--+ [SlideShare](https://www.slideshare.net/aben20807) / [speakerdeck](https://speakerdeck.com/aben20807)-->
 
 #### 🛠 Languages and Tools:
 
-<!--https://github.com/Ileriayo/markdown-badges-->
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/) [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/) [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
+<!--https://github.com/Ileriayo/markdown-badges
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/) [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/) [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)-->
 
-<!--https://rahuldkjain.github.io/gh-profile-readme-generator/-->
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+<!--https://rahuldkjain.github.io/gh-profile-readme-generator/
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank"> </p>-->
 
 <!--https://github-profile-summary-cards.vercel.app/demo.html-->
 <!--https://github.com/vn7n24fzkq/github-profile-summary-cards-->
@@ -28,7 +33,7 @@ Feel free to address me as Aben or Ben, both are perfectly fine 😄
 [![](https://raw.githubusercontent.com/aben20807/aben20807/main/profile-summary-card-output/default/1-repos-per-language.svg)](#) [![](https://raw.githubusercontent.com/aben20807/aben20807/main/profile-summary-card-output/default/2-most-commit-language.svg)](#)
 [![](https://raw.githubusercontent.com/aben20807/aben20807/main/profile-summary-card-output/default/3-stats.svg)](#) [![](https://raw.githubusercontent.com/aben20807/aben20807/main/profile-summary-card-output/default/4-productive-time.svg)](#)
 
-<div><span>Cards are generated by <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">vn7n24fzkq/github-profile-summary-cards</a></span></div>
+<!--<div><span>Cards are generated by <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">vn7n24fzkq/github-profile-summary-cards</a></span></div>-->
 
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
