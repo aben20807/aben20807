@@ -13,10 +13,10 @@ Feel free to address me as Aben or Ben, both are perfectly fine 😄
 
 #### ⚡ My Links:
 
++ [Resume](https://drive.google.com/file/d/1jfVtPDlbAkgD9TOT7eo6UlE5vWUXN_d2/view?usp=drive_link) / [CV](https://drive.google.com/file/d/1nMKixKlQBsBgMagWNn07xyrlBzTZz8qy/view?usp=drive_link)
 + [Blog](https://aben20807.github.io/)
 + [Linkedin](https://www.linkedin.com/in/po-hsuan-huang-6587b6117/)
 + [ORCID](https://orcid.org/0000-0002-7458-9634)
-+ [Resume](https://drive.google.com/file/d/1jfVtPDlbAkgD9TOT7eo6UlE5vWUXN_d2/view?usp=drive_link) / [CV](https://drive.google.com/file/d/1nMKixKlQBsBgMagWNn07xyrlBzTZz8qy/view?usp=drive_link)
 + [Unsplash](https://unsplash.com/@aben20807)
 
 <!--+ [Flickr](https://www.flickr.com/photos/aben20807/) / [Unsplash](https://unsplash.com/@aben20807)-->
