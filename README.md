@@ -2,7 +2,8 @@
 
 #### 🔭 Bio:
 
-I hold a PhD from CSIE, NCKU and am currently a postdoctoral researcher at CSIE, NTU  
+A lazy and busy worker.
+
 Interests:
 
 + compiler construction, system programming, performance analysis & optimization
